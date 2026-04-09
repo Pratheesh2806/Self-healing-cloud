@@ -123,13 +123,6 @@ http://localhost:8080
 
 ---
 
-📊 Dashboard Preview
-
-<p align="center">
-  <img src="screenshots/dashboard.png" width="700"/>
-</p>
----
-
 🧠 Algorithms Used
 
 Periodic Sampling Algorithm
@@ -218,8 +211,8 @@ This project demonstrates a real-world implementation of autonomic computing, co
 
 ---
 
-<p align="center">
-  <b>⚡ Autonomous | Intelligent | Secure | Scalable ⚡</b>
-</p>
+
+⚡ Autonomous | Intelligent | Secure | Scalable ⚡
+
 ```
 ---
